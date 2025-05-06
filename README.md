@@ -39,3 +39,9 @@ TaskManager — простое приложение для управления 
    ```bash
    git clone https://github.com/yourusername/taskmanager.git
    cd taskmanager
+3. **Установка зависимостей:**
+   Войдите в консоль Python с помощью команды ```bash python
+   Выполните команды для установки всех необходимых зависимостей:
+   ```Python
+   pip install -r requirements.txt
+
